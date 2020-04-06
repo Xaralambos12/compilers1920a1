@@ -1,2 +1,0 @@
-
-![automato](automato.png)
